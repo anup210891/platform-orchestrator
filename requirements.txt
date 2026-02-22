@@ -1,0 +1,22 @@
+asyncio
+
+aiohttp
+
+pydantic
+
+google-cloud-storage
+
+google-cloud-pubsub
+
+google-cloud-bigquery
+
+kubernetes
+
+github3
+
+pytest
+
+# other utilities
+requests
+numpy
+pandas
