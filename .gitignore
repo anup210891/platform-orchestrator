@@ -1,0 +1,23 @@
+# Exclude Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+
+# IDE files
+.idea/
+.vscode/
+
+# Configuration secrets
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
